@@ -1,0 +1,31 @@
+body{
+    background-color: palevioletred;
+}
+
+h1,
+li {
+    background-color: #d84093;
+    font-family:'Times New Roman';
+}
+
+
+li {
+    font-size: 20px;
+    color: white;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    
+}
+
+h2 {
+    font-size: 26px;
+    background-color: floralwhite;
+}
